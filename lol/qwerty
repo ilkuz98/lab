@@ -1,0 +1,16 @@
+all: hello
+
+hello: main.o funkcja1.o funkcja2.o
+	gcc main.o funkcja1.o funkcja2.o -o hello
+
+main.o: main.cpp
+	gcc -c main.cpp
+
+funkcja1.o: funkcja1.cpp
+	gcc -c funkcja1.cpp
+
+funkcja2.o: funkcja2.cpp
+	gcc -c funkcja2.cpp
+
+clean:
+	rm -rf *.o hello

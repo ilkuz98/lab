@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1488940009 source:/home/katupka/Документы/Projekty/zero/funkcja1.cpp
+	"header.h"
+
+1488964772 /home/katupka/Документы/Projekty/zero/header.h
+	<iostream>
+
+1488965032 source:/home/katupka/Документы/Projekty/zero/funkcja2.cpp
+	"header2.h"
+
+1488965032 /home/katupka/Документы/Projekty/zero/header2.h
+	<iostream>
+
+1488965930 source:/home/katupka/Документы/Projekty/zero/main.cpp
+	<iostream>
+	"header2.h"
+	"header.h"
+

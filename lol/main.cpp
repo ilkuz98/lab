@@ -1,12 +1,18 @@
-#include "my_libruary.h"
+
+#include <iostream>
+
+
+#include "header2.h"
+#include "header.h"
 
 
 
+using namespace std;
 
-int main(){
+int main()
+{
+  hak();
+  hul();
 
-pokaz();
-
-
-
+    return 0;
 }
