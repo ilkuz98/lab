@@ -16,3 +16,23 @@
 	"header2.h"
 	"header.h"
 
+1489018401 source:/home/katupka/Документы/Prog/lab/lol/funkcja2.cpp
+	"header2.h"
+	<ctime>
+	<stdlib.h>
+
+1489009641 /home/katupka/Документы/Prog/lab/lol/header2.h
+	<iostream>
+
+1489018076 source:/home/katupka/Документы/Prog/lab/lol/main.cpp
+	<iostream>
+	"header2.h"
+	"header.h"
+
+1489009641 /home/katupka/Документы/Prog/lab/lol/header.h
+	<iostream>
+
+1489018349 source:/home/katupka/Документы/Prog/lab/lol/funkcja1.cpp
+	"header.h"
+	<cstring>
+

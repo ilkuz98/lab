@@ -11,8 +11,9 @@ using namespace std;
 
 int main()
 {
-  hak();
   hul();
+  hak();
+
 
     return 0;
 }
